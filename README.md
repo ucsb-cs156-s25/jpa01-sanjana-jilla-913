@@ -1,6 +1,6 @@
 # jpa01-sanjana-jilla-913
 
-Deployed at: http://jpa01-sanjana-jilla-913.dokku-06.cs.ucsb.edu
+Deployed at: https://jpa01-sanjana-jilla-913.dokku-06.cs.ucsb.edu
 
 
 # About this repo
